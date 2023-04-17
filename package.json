@@ -1,5 +1,5 @@
 {
-  "name": "fn-ui",
+  "name": "no-ui",
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@8.1.1",
